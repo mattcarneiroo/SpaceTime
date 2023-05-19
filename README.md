@@ -8,8 +8,8 @@ Esse é um projeto responsivo de uma cápsula do tmep para exibir memórias uma 
 ## Tecnologias
 Esse projeto foi desenvolvido durante a NLW da Rocketseat com as seguintes tecnologias?
 
--HTML
--CSS
+- HTML
+- CSS
 - Git e Github
 
 ## Layout
